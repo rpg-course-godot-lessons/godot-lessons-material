@@ -69,7 +69,7 @@ godot-lessons-material/
 Per poter utilizzare questa repository basterà semplicemente clonarla
 
 ```sh
-git clone https://github.com/rpg-godot-lessons/godot-lessons-material.git
+git clone https://github.com/rpg-course-godot-lessons/godot-lessons-material.git
 ```
 
 <p align="right">(<a href="#readme-top">torna su</a>)</p>
